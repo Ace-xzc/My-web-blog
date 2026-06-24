@@ -3,10 +3,10 @@
 # 🌐 Welcome to My Front-End Blog | 欢迎来到我的前端博客
 
 **English:**
-Hi there! I'm **[Ace]**, a Front-End Developer. This repository hosts the source code for my personal blog. Here I share my daily learning notes on frontend development, CSS styling tricks, and my journey as a developer.
+Hi there! I'm **Ace**, a Front-End Developer. This repository hosts the source code for my personal blog. Here I share my daily learning notes on frontend development, CSS styling tricks, and my journey as a developer.
 
 **中文:**
-你好！我是 **[炸串]**，一名前端开发者。这个仓库是我个人技术博客的源码。在这里，我会专注记录前端开发的学习笔记、CSS 样式技巧以及我的开发者成长之旅。
+你好！我是 **炸串**，一名前端开发者。这个仓库是我个人技术博客的源码。在这里，我会专注记录前端开发的学习笔记、CSS 样式技巧以及我的开发者成长之旅。
 
 ---
 
